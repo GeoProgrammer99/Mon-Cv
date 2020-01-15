@@ -1,0 +1,49 @@
+
+
+
+body{
+
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom, rgb(48, 48, 61), rgb(89, 100, 89));
+    background-position: center center fixed;
+    background-size: cover;
+}
+.sectioncv{
+
+height: 150px;
+width: 900px;
+margin: auto;
+margin-top: 100px;
+
+}
+#anglobe{
+    margin:auto;
+width : 700px;
+height : 1500px;
+background-color: white;
+box-shadow: 1px 1px 12px black;
+
+}
+.articleCv{
+    
+    padding : 20px 20px 20px 20px;
+
+}
+.titreGras{
+    font-weight:  bold;
+    font-size: 2em;
+    text-decoration: underline;
+    color : rgb(9, 9, 126)
+}
+
+img{
+    height :200px;
+    weight :200px;
+    margin-left: 400px;
+    margin-top: -250px;
+    border: 1px solid black;
+}
+.textGras{
+    font-weight: bold;
+    margin-top: 10px;
+}
